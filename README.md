@@ -11,6 +11,7 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 - [Velocity](https://papermc.io/downloads/velocity)
 - [BungeeCord](https://github.com/SpigotMC/BungeeCord)
 - [LightFall](https://github.com/ArclightPowered/lightfall)
+- [GoldenForge](https://github.com/GoldenForge/GoldenForge)
 
 ### Keys
 - [BungeeForge](https://github.com/caunt/BungeeForge) -> BF
@@ -52,3 +53,4 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 | Mohist 1.19.2-66              | Velocity (AMB) | Yes                    | No                         | Yes (With PCF)        | Generic forwarding error, malformed data                            |
 | Mohist 1.19.4-196             | Velocity (AMB) |                        |                            |                       | Test failed, server wouldn't connect locally                        |
 | Mohist 1.20.1-465             | Velocity (AMB) |                        |                            |                       | Test failed, server wouldn't connect locally                        |
+| GoldenForge 1.19.2-Alpha.0.0.7| Velocity (AMB) |                        |                            |                       |                                                                     |
