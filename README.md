@@ -33,7 +33,7 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 |                                | BungeeCord     | ---           | ---         | N/A    | BungeeForge 1.12.2 doesn't seem to work at the moment |
 | Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |        |                                                       |
 | Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF)|                                                |
-| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A           | Yes (With PCF)|                                                |
+| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF)|                                                |
 | Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | ?           | ?      |                                                       |
 | Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | ?           | ?      |                                                       |
 | Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | ?           | ?      |                                                       |
