@@ -25,21 +25,21 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 - [LightFallClient](https://github.com/ArclightPowered/lightfall-client/releases) -> LFC
 
 ### Forge
-| Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern | Notes                                                 |
-|--------------------------------|----------------|---------------|-------------|--------|-------------------------------------------------------|
-| Forge 1.7.10-10.13.4.1614      | Velocity       | ?             | ?           | N/A    |                                                       |
-|                                | BungeeCord     | ?             | ?           | N/A    |                                                       |
-| Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | ---         | N/A    | BungeeForge 1.12.2 doesn't seem to work at the moment |
-|                                | BungeeCord     | ---           | ---         | N/A    | BungeeForge 1.12.2 doesn't seem to work at the moment |
-| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |        |                                                       |
-| Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF)|                                                |
-| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF)|                                                |
-| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | ?           | ?      |                                                       |
-| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | ?           | ?      |                                                       |
-| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | ?           | ?      |                                                       |
-| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | ?           | ?      |                                                       |
-| GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes    |                                                       |
-| NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?      |                                                       |
+| Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern         | Notes                                                 |
+|--------------------------------|----------------|---------------|-------------|----------------|-------------------------------------------------------|
+| Forge 1.7.10-10.13.4.1614      | Velocity       | ---           | ---         | N/A            | BungeeForge 1.7.10 doesn't seem to work at the moment |
+|                                | BungeeCord     | ---           | ---         | N/A            | BungeeForge 1.7.10 doesn't seem to work at the moment |
+| Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
+|                                | BungeeCord     | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
+| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |                |                                                       |
+| Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
+| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
+| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | ?           | ?              |                                                       |
+| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | ?           | ?              |                                                       |
+| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | ?           | ?              |                                                       |
+| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | ?           | ?              |                                                       |
+| GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes            |                                                       |
+| NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
 
 ### Forge Hybrids
 | Server Type                   | Proxy                                               | Legacy                 | BungeeGuard                | Modern                | Notes                                                                                                                                                                                                                                                                                                                             |
@@ -64,7 +64,7 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 |                               | BungeeCord                                          | ---                    | ---                        | N/A                   | Wouldn't connect, test inconclusive                                                                                                                                                                                                                                                                                               |
 | Magma 1.16.5-36.2.39-c1c5a946 | Velocity (AMB)                                      | Yes                    | No                         | Yes (With PCF)        | This version is full of bugs and Magma doesn't currently support it                                                                                                                                                                                                                                                               |
 | Magma 1.18.2-40.2.10-5cda8a26 | Velocity (AMB)                                      | No                     | No                         | Yes (With PCF)        | AMB + Legacy has some weird problem with `ArgumentPropertyRegistry.deserialize`                                                                                                                                                                                                                                                   |
-| Magma 1.19.3-44.1.23-6e6ce905 | Velocity (AMB)                                      | No                     | No                         | Yes (Magma config)    | Generic forwarding error, malformed data                                                                                                                                                                                                                                                                                          |
+| Magma 1.19.3-44.1.23-6e6ce905 | Velocity (AMB)                                      | No                     | No                         | Yes                   | Generic forwarding error, malformed data                                                                                                                                                                                                                                                                                          |
 | Mohist 1.7.10-46              | Velocity                                            | Yes                    | N/A                        | N/A                   |                                                                                                                                                                                                                                                                                                                                   |
 |                               | [Travertine](https://github.com/PaperMC/Travertine) | No                     | N/A                        | N/A                   | Times out, but might work in theory, I can't be bothered to find the most recent working build. For those who want to test, the download url is [this link](https://papermc.io/api/v2/projects/travertine/versions/1.16/builds/BUILD_NUMBER/downloads/travertine-1.16-BUILD_NUMBER.jar) (copy it and substitute the build number) |
 |                               | [HexaCord](https://github.com/HexagonMC/BungeeCord) | No                     | N/A                        | N/A                   | Times out, but might work in theory                                                                                                                                                                                                                                                                                               |
@@ -122,6 +122,8 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 ### To Add
 - [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/1.7.10/)
 - [KCauldron](https://github.com/djoveryde/KCauldron)
+- [Thermos](https://github.com/CyberdyneCC/Thermos)
+- [Uranium](https://github.com/UraniumMC/Uranium)
 - MCPC+ ?
 - [Fabric](https://github.com/FabricMC/fabric/)
 - [Cardboard](https://github.com/CardboardPowered/cardboard)
