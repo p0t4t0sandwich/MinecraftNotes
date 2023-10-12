@@ -31,13 +31,13 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 |                                | BungeeCord     | ?             | N/A         | N/A            |                                                       |
 | Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | N/A         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment May be fixable with UNI |
 |                                | BungeeCord     | ---           | N/A         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment May be fixable with UNI |
-| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |                |                                                       |
+| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
 | Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
 | Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
-| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | ?           | ?              |                                                       |
-| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | ?           | ?              |                                                       |
-| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | ?           | ?              |                                                       |
-| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | ?           | ?              |                                                       |
+| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
+| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
+| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
+| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
 | GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes            |                                                       |
 | NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?              |                                                       |
 
