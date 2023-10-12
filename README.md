@@ -27,10 +27,10 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 ### Forge
 | Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern         | Notes                                                 |
 |--------------------------------|----------------|---------------|-------------|----------------|-------------------------------------------------------|
-| Forge 1.7.10-10.13.4.1614      | Velocity       | yes (with UNI)| ---         | N/A            | Need UniMixins to fix mixin issue                     |
-|                                | BungeeCord     | ---           | ---         | N/A            |                                                       |
-| Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
-|                                | BungeeCord     | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
+| Forge 1.7.10-10.13.4.1614      | Velocity       | yes (With UNI)| N/A         | N/A            | Need UniMixins to fix mixin issue                     |
+|                                | BungeeCord     | ?             | N/A         | N/A            |                                                       |
+| Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | N/A         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment May be fixable with UNI |
+|                                | BungeeCord     | ---           | N/A         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment May be fixable with UNI |
 | Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |                |                                                       |
 | Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
 | Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                       |
