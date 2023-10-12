@@ -23,12 +23,12 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) -> PL
 - [Ambassador](https://github.com/adde0109/Ambassador) -> AMB
 - [LightFallClient](https://github.com/ArclightPowered/lightfall-client/releases) -> LFC
-
+- [UniMixins](https://www.curseforge.com/minecraft/mc-mods/unimixins) -> UNI
 ### Forge
 | Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern         | Notes                                                 |
 |--------------------------------|----------------|---------------|-------------|----------------|-------------------------------------------------------|
-| Forge 1.7.10-10.13.4.1614      | Velocity       | ---           | ---         | N/A            | BungeeForge 1.7.10 doesn't seem to work at the moment |
-|                                | BungeeCord     | ---           | ---         | N/A            | BungeeForge 1.7.10 doesn't seem to work at the moment |
+| Forge 1.7.10-10.13.4.1614      | Velocity       | yes (with UNI)| ---         | N/A            | Need UniMixins to fix mixin issue                     |
+|                                | BungeeCord     | ---           | ---         | N/A            |                                                       |
 | Forge 1.12.2-14.23.5.2860      | Velocity       | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
 |                                | BungeeCord     | ---           | ---         | N/A            | BungeeForge 1.12.2 doesn't seem to work at the moment |
 | Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | ?           |                |                                                       |
