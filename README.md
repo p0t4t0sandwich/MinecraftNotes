@@ -97,7 +97,7 @@ PRs and issues welcome! Feel free to let me know if you've found a workaround, o
 |                                         | BungeeCord     | ?      | ?           | N/A    |       |
 | SpongeForge 1.12.2-2838-7.4.7           | Velocity       | ?      | ?           | N/A    |       |
 |                                         | BungeeCord     | ?      | ?           | N/A    |       |
-| SpongeForge 1.16.5-36.2.5-8.2.0         | Velocity (AMB) | ?      | ?           | ?      |       |
+| SpongeForge 1.16.5-36.2.5-8.2.0         | Velocity (AMB) | Yes    | ?           | ?      |       |
 | SpongeVanilla 1.8.9-4.2.0-BETA-352      | Velocity       | ?      | ?           | N/A    |       |
 |                                         | BungeeCord     | ?      | ?           | N/A    |       |
 | SpongeVanilla 1.9.4-5.0.0-BETA-83       | Velocity       | ?      | ?           | N/A    |       |
