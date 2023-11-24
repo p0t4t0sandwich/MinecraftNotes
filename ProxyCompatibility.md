@@ -26,24 +26,25 @@
 - [Ambassador](https://github.com/adde0109/Ambassador) -> AMB
 - [LightFallClient](https://github.com/ArclightPowered/lightfall-client/releases) -> LFC
 - [UniMixins](https://www.curseforge.com/minecraft/mc-mods/unimixins) -> UNI
+- [Mixin Booter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter) -> MB
 
 ## Forge
 
-| Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern         | Notes                                                                                  |
-|--------------------------------|----------------|---------------|-------------|----------------|----------------------------------------------------------------------------------------|
-| Forge 1.7.10-10.13.4.1614      | Velocity       | Yes (With BF) | N/A         | N/A            | Needs [UniMixins](https://modrinth.com/mod/unimixins) to run                           |
-|                                | BungeeCord     | Yes (With BF) | N/A         | N/A            |                                                                                        |
-| Forge 1.12.2-14.23.5.2860      | Velocity       | Yes (With BF) | N/A         | N/A            | Needs [Mixin Booter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter) to run |
-|                                | BungeeCord     | Yes (With BF) | N/A         | N/A            |                                                                                        |
-| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
-| Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                                                        |
-| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                                                                                        |
-| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
-| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
-| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
-| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
-| GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes            |                                                                                        |
-| NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?              |                                                                                        |
+| Server Type                    | Proxy          | Legacy        | BungeeGuard | Modern         | Notes               |
+|--------------------------------|----------------|---------------|-------------|----------------|---------------------|
+| Forge 1.7.10-10.13.4.1614      | Velocity       | Yes (With BF) | N/A         | N/A            | Needs UNI to run BF |
+|                                | BungeeCord     | Yes (With BF) | N/A         | N/A            |                     |
+| Forge 1.12.2-14.23.5.2860      | Velocity       | Yes (With BF) | N/A         | N/A            | Needs MB to run BF  |
+|                                | BungeeCord     | Yes (With BF) | N/A         | N/A            |                     |
+| Forge 1.16.5-36.2.39           | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| Forge 1.18.2-40.2.10           | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                     |
+| Forge 1.19.2-43.3.2            | Velocity (AMB) | Yes (With BF) | N/A         | Yes (With PCF) |                     |
+| Forge 1.19.3-44.1.23           | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| Forge 1.19.4-45.2.2            | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| Forge 1.20.1-47.2.1            | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| Forge 1.20.2-48.0.20           | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes            |                     |
+| NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?              |                     |
 
 ## Forge Hybrids
 
