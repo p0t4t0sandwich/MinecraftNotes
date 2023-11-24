@@ -22,6 +22,8 @@ Bukkit
 
       - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
 
+        - [Mirai](https://github.com/etil2jz/Mirai) -- a fork of Pufferfish that implements vanilla-friendly Lithium patches
+
 - [Glowstone](https://github.com/GlowstoneMC/Glowstone) -- not a direct fork, as it re-implements the vanilla codebase from scratch, compatible with Bukkit, Spigot, and Paper plugins
 
 ## BungeeCord
