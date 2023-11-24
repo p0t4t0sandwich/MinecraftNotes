@@ -86,6 +86,8 @@ MCPC+
 
             - [Ketting](https://github.com/kettingpowered/Ketting-1-20-x) -- created by a former Magma contributor
 
+            - [Magma Maintained](https://github.com/magmamaintained) -- a maintained fork of Magma that aims to keep everything functional and up to date
+
 [Arclight](https://github.com/IzzelAliz/Arclight)
 
 ## Lilypad
