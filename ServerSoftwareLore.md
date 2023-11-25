@@ -84,13 +84,17 @@ MCPC+
 
           - [Magma](https://github.com/Hexeption/MagmaArchive) -- created by a former Kettle contributor
 
-            - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~ -- DMCA'd Magma after taking Magma source and passing it off as their own, so they're generally unliked by the community
+            -  -- DMCA'd Magma after taking Magma source and passing it off as their own, so they're generally unliked by the community
 
             - [Ketting](https://github.com/kettingpowered/Ketting-1-20-x) -- created by a former Magma contributor
 
             - [Magma Maintained](https://github.com/magmamaintained) -- a maintained fork of Magma that aims to keep everything functional and up to date
 
 [Arclight](https://github.com/IzzelAliz/Arclight)
+
+~~[FoxServer](https://github.com/Luohuayu/FoxServer)~~ -- stole patches from pretty much everyone, everybody dislikes them, read [here](https://github.com/Luohuayu/FoxServer/issues/7) for some tea
+  - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~
+  - ~~[LoliServer](https://github.com/LoliServer-MC/LoliServer1.16)~~ -- this gross thing
 
 ## Lilypad
 
