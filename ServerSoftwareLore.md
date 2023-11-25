@@ -18,11 +18,13 @@ Bukkit
 
       - [Tuinity](https://github.com/Tuinity/Tuinity)
 
-      - [Airplane](https://github.com/TECHNOVE/Airplane)
+      - [Yatopia](https://github.com/YatopiaMC/Yatopia)
 
-      - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
+        - [Airplane](https://github.com/TECHNOVE/Airplane)
 
-        - [Mirai](https://github.com/etil2jz/Mirai) -- a fork of Pufferfish that implements vanilla-friendly Lithium patches
+        - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
+
+          - [Mirai](https://github.com/etil2jz/Mirai) -- a fork of Pufferfish that implements vanilla-friendly Lithium patches
 
 - [Glowstone](https://github.com/GlowstoneMC/Glowstone) -- not a direct fork, as it re-implements the vanilla codebase from scratch, compatible with Bukkit, Spigot, and Paper plugins
 
