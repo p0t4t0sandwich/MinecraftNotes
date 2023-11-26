@@ -92,6 +92,8 @@ MCPC+
 
 [Arclight](https://github.com/IzzelAliz/Arclight)
 
+[BukkitForge](https://github.com/keepcalm/BukkitForge)
+
 ~~[FoxServer](https://github.com/Luohuayu/FoxServer)~~ -- stole patches from pretty much everyone, everybody dislikes them, read [here](https://github.com/Luohuayu/FoxServer/issues/7) for some tea
   - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~
   - ~~[LoliServer](https://github.com/LoliServer-MC/LoliServer1.16)~~ -- this gross thing
