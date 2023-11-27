@@ -16,6 +16,8 @@ A general summarization how various MC server softwares are related to each othe
 
       - [Purpur](https://github.com/PurpurMC/Purpur)
 
+        -  [MultiPaper](https://github.com/MultiPaper/MultiPaper)
+
       - [Tuinity](https://github.com/Tuinity/Tuinity)
 
         - [Yatopia](https://github.com/YatopiaMC/Yatopia)
