@@ -2,27 +2,47 @@
 
 A general summarization how various MC server softwares are related to each other.
 
+If you want a more complete list take a look [here](https://github.com/LeStegii/server-softwares).
+
 ## Bukkit
 
-Bukkit
+[Bukkit](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse)
 
-- CraftBukkit
+- [CraftBukkit](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/craftbukkit/browse)
 
   - [Spigot](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/spigot/browse)
 
     - [Paper](https://github.com/PaperMC/Paper)
+   
+      - [EmpireCraft](https://github.com/starlis/empirecraft)
+
+      - [Akarin](https://github.com/Akarin-project/Akarin)
 
       - [Folia](https://github.com/PaperMC/Folia)
+     
+        - [Kaiiju](https://github.com/KaiijuMC/Kaiiju) -- Folia fork, designed for vanilla/anarchy servers
 
       - [Purpur](https://github.com/PurpurMC/Purpur)
 
+        -  [MultiPaper](https://github.com/MultiPaper/MultiPaper)
+
+        -  [Patina](https://github.com/PatinaMC/Patina)
+
       - [Tuinity](https://github.com/Tuinity/Tuinity)
+     
+        - [Origami](https://github.com/Minebench/Origami)
 
-      - [Airplane](https://github.com/TECHNOVE/Airplane)
+        - [Yatopia](https://github.com/YatopiaMC/Yatopia)
 
-      - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
+          - [Airplane](https://github.com/TECHNOVE/Airplane)
 
-        - [Mirai](https://github.com/etil2jz/Mirai) -- a fork of Pufferfish that implements vanilla-friendly Lithium patches
+            - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
+
+              - [Pearl](https://github.com/Pearl-Project/Pearl) -- some optimization and gameplay features that are cherry picked from other projects
+
+              - [Matter](https://github.com/plasmoapp/matter) -- adds a secure feature seed. Based on [Secure Seed](https://github.com/Earthcomputer/SecureSeed) mod by Earthcomputer
+
+              - [Mirai](https://github.com/etil2jz/Mirai) -- a fork of Pufferfish that implements vanilla-friendly Lithium patches
 
 - [Glowstone](https://github.com/GlowstoneMC/Glowstone) -- not a direct fork, as it re-implements the vanilla codebase from scratch, compatible with Bukkit, Spigot, and Paper plugins
 
@@ -84,13 +104,25 @@ MCPC+
 
           - [Magma](https://github.com/Hexeption/MagmaArchive) -- created by a former Kettle contributor
 
-            - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~ -- DMCA'd Magma after taking Magma source and passing it off as their own, so they're generally unliked by the community
-
             - [Ketting](https://github.com/kettingpowered/Ketting-1-20-x) -- created by a former Magma contributor
 
             - [Magma Maintained](https://github.com/magmamaintained) -- a maintained fork of Magma that aims to keep everything functional and up to date
 
 [Arclight](https://github.com/IzzelAliz/Arclight)
+
+[BukkitForge](https://github.com/keepcalm/BukkitForge)
+
+~~[FoxServer](https://github.com/Luohuayu/FoxServer)~~ -- stole patches from pretty much everyone, everybody dislikes them, read [here](https://github.com/Luohuayu/FoxServer/issues/7) for some tea
+  - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~
+  - ~~[LoliServer](https://github.com/LoliServer-MC/LoliServer1.16)~~ -- this gross thing
+
+## HMod
+
+[HMod](https://hey0.net/minecraft/)
+
+- [Canary Classic](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-tools/1261218-mod-canarymod-canary-b11-1-hmod-legacy-1-5-1)
+
+  - [CanaryMod](https://canarymod.net/)
 
 ## Lilypad
 
