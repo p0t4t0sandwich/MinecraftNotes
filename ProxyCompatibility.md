@@ -51,6 +51,7 @@
 | GoldenForge 1.19.2-Alpha.0.0.7 | Velocity (AMB) | Yes (With BF) | N/A         | Yes            |                     |
 | NeoForge 1.20.1-47.1.79        | Velocity (AMB) | ?             | N/A         | ?              |                     |
 | NeoForge 20.2.86               | Velocity (AMB) | ?             | N/A         | ?              |                     |
+| NeoForge 20.3-beta             | Velocity (AMB) | ?             | N/A         | ?              |                     |
 
 ## Forge Hybrids
 
