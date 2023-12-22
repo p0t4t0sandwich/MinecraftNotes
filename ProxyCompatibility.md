@@ -15,7 +15,7 @@
 
 - [BungeeCord](https://github.com/SpigotMC/BungeeCord)
 - [HexaCord](https://github.com/HexagonMC/BungeeCord)
-- [LightFall](https://github.com/ArclightPowered/lightfall)
+- [LightFall](https://github.com/ArclightPowered/lightfall) -- Incompatible with Sinytra Connector
 - [Travertine](https://github.com/PaperMC/Travertine)
 - [Velocity](https://papermc.io/downloads/velocity)
 
