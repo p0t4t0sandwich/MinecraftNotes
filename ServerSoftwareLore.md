@@ -128,6 +128,13 @@ MCPC+
 
 [Lilypad](https://github.com/LilyPad/GoLilyPad)
 
+## Sponge
+
+[SpongeAPI](https://github.com/SpongePowered/SpongeAPI)
+  - [SpongeVanilla](https://github.com/SpongePowered/Sponge/tree/api-10/vanilla)
+  - [SpongeForge](https://github.com/SpongePowered/Sponge/tree/api-10/forge)
+  - [Lantern](https://github.com/LanternPowered/Lantern)
+
 ## Velocity
 
 [Velocity](https://github.com/PaperMC/Velocity)
