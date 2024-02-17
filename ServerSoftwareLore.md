@@ -131,9 +131,10 @@ MCPC+
 ## Sponge
 
 [SpongeAPI](https://github.com/SpongePowered/SpongeAPI)
-  - [SpongeVanilla](https://github.com/SpongePowered/Sponge/tree/api-10/vanilla)
   - [SpongeForge](https://github.com/SpongePowered/Sponge/tree/api-10/forge)
   - [Lantern](https://github.com/LanternPowered/Lantern)
+  - [Granite](https://github.com/jamierocks/Granite)
+    - [SpongeVanilla](https://github.com/SpongePowered/Sponge/tree/api-10/vanilla)
 
 ## Velocity
 
