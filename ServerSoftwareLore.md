@@ -18,11 +18,21 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
 
       - [Akarin](https://github.com/Akarin-project/Akarin)
 
+      - [Leaves](https://github.com/LeavesMC/Leaves)
+
+      - [Scissors](https://github.com/AtlasMediaGroup/Scissors)
+
+      - [Gale](https://github.com/GaleMC/Gale)
+
+        - [Leaf](https://github.com/Winds-Studio/Leaf)
+
       - [Folia](https://github.com/PaperMC/Folia)
      
         - [Kaiiju](https://github.com/KaiijuMC/Kaiiju) -- Folia fork, designed for vanilla/anarchy servers
 
         - [Luminol](https://github.com/LuminolMC/Luminol) -- Folia fork, designed for vanilla/anarchy servers
+
+        - [Foldenor](https://github.com/Edenor-Minecraft/Foldenor)
 
       - [Purpur](https://github.com/PurpurMC/Purpur)
 
@@ -31,6 +41,8 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
         -  [Patina](https://github.com/PatinaMC/Patina)
 
         - [Petal](https://github.com/Bloom-host/Petal)
+
+        - [Deepslate](https://github.com/DeepslateMC/Deepslate)
 
         - [DivineMC](https://github.com/DivineMC/DivineMC)
 
@@ -71,6 +83,8 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
   - [LightFall](https://github.com/ArclightPowered/lightfall) -- Arclight's fork of Waterfall to implement Forge 1.13+ support
 
   - [Travertine](https://github.com/PaperMC/Travertine) -- Aimed to support 1.7 clients
+
+  - [Waterdog](https://github.com/WaterdogPE/Waterdog) <!-- https://github.com/yesdog/Waterdog -->
 
 ## Fabric
 
@@ -128,6 +142,10 @@ MCPC+
   - ~~[CatServer](https://github.com/Luohuayu/CatServer)~~
   - ~~[LoliServer](https://github.com/LoliServer-MC/LoliServer1.16)~~ -- this gross thing
 
+## Krypton
+
+- [Krypton](https://github.com/KryptonMC/Krypton)
+
 ## HMod
 
 [HMod](https://hey0.net/minecraft/)
@@ -151,3 +169,13 @@ MCPC+
 ## Velocity
 
 [Velocity](https://github.com/PaperMC/Velocity)
+
+## Bedrock
+
+- [Nukkit](https://github.com/CloudburstMC/Nukkit)
+
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+
+### Proxies
+
+- [WaterdogPE](https://github.com/WaterdogPE/WaterdogPE)
