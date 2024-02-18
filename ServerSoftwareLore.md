@@ -172,9 +172,13 @@ MCPC+
 
 ## Bedrock
 
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+
 - [Nukkit](https://github.com/CloudburstMC/Nukkit)
 
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+  - [PowerNukkit](https://github.com/PowerNukkit/PowerNukkit)
+
+    - [PowerNukkitX](https://github.com/PowerNukkitX/PowerNukkitX)
 
 ### Proxies
 
