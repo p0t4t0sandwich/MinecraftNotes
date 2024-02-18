@@ -22,11 +22,23 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
      
         - [Kaiiju](https://github.com/KaiijuMC/Kaiiju) -- Folia fork, designed for vanilla/anarchy servers
 
+        - [Luminol](https://github.com/LuminolMC/Luminol) -- Folia fork, designed for vanilla/anarchy servers
+
       - [Purpur](https://github.com/PurpurMC/Purpur)
 
         -  [MultiPaper](https://github.com/MultiPaper/MultiPaper)
 
         -  [Patina](https://github.com/PatinaMC/Patina)
+
+        - [Petal](https://github.com/Bloom-host/Petal)
+
+        - [DivineMC](https://github.com/DivineMC/DivineMC)
+
+        - [Sharkur](https://github.com/SharkurMC/Sharkur)
+
+        - [Canvas](https://github.com/CraftCanvasMC/Canvas)
+
+          - [icecream](https://github.com/icecreammc/icecream)
 
       - [Tuinity](https://github.com/Tuinity/Tuinity)
      
