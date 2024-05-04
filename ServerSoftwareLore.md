@@ -34,6 +34,8 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
 
         - [Foldenor](https://github.com/Edenor-Minecraft/Foldenor)
 
+        - [DeerFolia](https://ssl.lunadeer.cn:14446/zhangyuheng/DeerFolia)
+
       - [Purpur](https://github.com/PurpurMC/Purpur)
 
         -  [MultiPaper](https://github.com/MultiPaper/MultiPaper)
