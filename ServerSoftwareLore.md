@@ -37,10 +37,12 @@ If you want a more complete list take a look [here](https://github.com/LeStegii/
         - [DeerFolia](https://ssl.lunadeer.cn:14446/zhangyuheng/DeerFolia)
 
       - [Purpur](https://github.com/PurpurMC/Purpur)
+     
+        - [ShreddedPaper](https://github.com/MultiPaper/ShreddedPaper)
 
-        -  [MultiPaper](https://github.com/MultiPaper/MultiPaper)
+        - [MultiPaper](https://github.com/MultiPaper/MultiPaper)
 
-        -  [Patina](https://github.com/PatinaMC/Patina)
+        - [Patina](https://github.com/PatinaMC/Patina)
 
         - [Petal](https://github.com/Bloom-host/Petal)
 
