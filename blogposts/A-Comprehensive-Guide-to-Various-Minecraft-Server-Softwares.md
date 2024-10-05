@@ -131,3 +131,7 @@ Fabric+Bukkit is the smallest of the bunch, so it's hard to get this wrong:
 - [Banner](<https://mohistmc.com/>) - same group as Mohist, 1.19.4, 1.20, 1.20.1
 - [CardBoard](<https://github.com/CardboardPowered/cardboard>) - 1.16.5, 1.18.2, 1.19.2, 1.19.4, 1.20.4, 1.20.6
   - Note, somewhat implements the Paper API, but is inconsistent on updating it when updating the Minecraft version
+
+## TaterLib
+
+Now, at the bottom of the post, I take an opportunity to talk about my own project. [TaterLib](<https://github.com/p0t4t0sandwich/TaterLib>) is a library that developers can use to create mods/plugins that can run across multiple versions of Minecraft, all in a single Jar. Mainly, I define a single common API for every platform/version, and then implement it all by hand. There's a decent amount of repetitive code, but it's quite fun to work on. I've learned some tricks from Sponge on how to implement API interfaces in a somewhat sane manner, and overall it's been a nice project to work on. Currently it supports most modloaders from 1.7.10-1.21.1 (even proxies), along with Forge 1.6.4 and Bukkit b1.7.3. Not a server software in it's own right (yet), but instead sits "on top" of other modloaders in order to do it's thing.
